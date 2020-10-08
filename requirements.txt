@@ -1,1 +1,4 @@
 Django~=2.0.6
+python 3.6 and above
+windows 8 and above
+ram 4gb and above
